@@ -1,0 +1,9 @@
+.DS_Store
+
+
+
+#stuff I dont want on git (mostly large files)
+RENDER/
+20190125_triggerVMM\ Project/Backup/
+20190125_triggerVMM\ Project/Samples/Recorded/
+HOUDINI/backup/
